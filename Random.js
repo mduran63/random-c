@@ -8,3 +8,5 @@ if (numero <= 0.5) {
 };
 
 console.log('\n' + numero + str + '\n');
+
+console.log('\n esta modificación está en la rama de testing');
